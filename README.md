@@ -146,10 +146,10 @@ MIT License - Libre para uso personal y comercial
 
 ## 👤 Autor
 
-**Tu Nombre**
-- LinkedIn: [tu-perfil](https://linkedin.com/in/tu-perfil)
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- Email: tu-email@ejemplo.com
+**Bautista Verna**
+- LinkedIn: Bautista Verna(www.linkedin.com/in/bautista-verna)
+- GitHub: BautistaVerna(https://github.com/BautistaVerna)
+- Email: bautiverna@gmail.com
 
 ---
 
