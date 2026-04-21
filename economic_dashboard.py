@@ -43,7 +43,7 @@ def get_dollar_rates():
 def get_inflation_data():
     # En un caso real, esto vendría de una API como INDEC o similar
     # Por ahora usamos datos de ejemplo
-    dates = pd.date_range(end=datetime.now(), periods=12, freq='M')
+    dates = pd.date_range(end=datetime.now(), periods=12, freq='ME')
     inflation = [3.2, 4.1, 3.8, 5.2, 4.9, 6.1, 5.8, 6.5, 7.2, 6.8, 7.5, 8.1]
     
     df = pd.DataFrame({
